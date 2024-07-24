@@ -1,0 +1,37 @@
+Origin: DLDC Repo
+Label: DLDC Github
+Codename: bookworm
+Date: Wed, 24 Jul 2024 16:05:10 UTC
+Architectures: amd64 arm64
+Components: main
+Description: DLDC Repository for Debian
+MD5Sum:
+ 5883179c0981f3cf026fdc86152106dd 1603 main/binary-amd64/Packages
+ ffd57d29cd21777971359f67545f4473 849 main/binary-amd64/Packages.gz
+ 72231ac1cae4de0f9db7752542e4de29 113 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 57a15f47836cedb6b38497198a690be9 113 main/binary-arm64/Release
+ 4ddb59fe8e99a62754f3937f165d4c2c 1250 main/source/Sources
+ cefc9ecf9049f6c095b286c108341a6b 630 main/source/Sources.gz
+ ec65bed50fd8e82f63fab0738af8a84c 114 main/source/Release
+SHA1:
+ fafde83768070b63c7743f1b39f9de3fc0dc600f 1603 main/binary-amd64/Packages
+ 809aaab26c3be71445ce816c6ea6bc52dca60498 849 main/binary-amd64/Packages.gz
+ 4c2f5e2d62dd011412d711b6b6003d29e23b7d1d 113 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ bc5963d890050cf072446185231a2b79d98cbbe5 113 main/binary-arm64/Release
+ 80d7306e47f2e4d79291c7a1af3bff0f7338015f 1250 main/source/Sources
+ 8519e7095490e84d4c5e0b32b01023e683d8b199 630 main/source/Sources.gz
+ 93e8cdb0a124482bdc333395b64be17de16001fa 114 main/source/Release
+SHA256:
+ 757ab9426cdc4aee0faa7c1fe5b0dec7c5a69a093a151b708536d4e08bdef553 1603 main/binary-amd64/Packages
+ 9a52d7de1770375774bfd296dcbeecea7c3fc1efe18899a3b1f0a8983eff9383 849 main/binary-amd64/Packages.gz
+ d444d43e8be5cea1283b0e11a7f6132e9e70d1c108fb04329a82438755f6962b 113 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 20664bbe05635065b61026a72f7108ef4d9e9848606bba827913348e90ef6d45 113 main/binary-arm64/Release
+ 2cd4bd6679ab2871064ae028eeb45b1f550798bc0c8c697248b35715d45a57c9 1250 main/source/Sources
+ b0e3da6417b39654efb7f980c4770c04e5f51ede741307cf8b2c5c3662fb3038 630 main/source/Sources.gz
+ 45f79368bb8f261d0d94ce53cc65936a94b9b83fe52335a58d2de1e412a3209d 114 main/source/Release

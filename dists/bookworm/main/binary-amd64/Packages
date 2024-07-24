@@ -1,0 +1,42 @@
+Package: attc
+Source: attachment-converter
+Version: 0.1.16-1
+Architecture: amd64
+Maintainer: Ben Kim <benkim@uchicago.edu>
+Installed-Size: 6064
+Depends: libc6 (>= 2.35), pandoc, libreoffice, libvips-tools, ghostscript
+Priority: optional
+Section: misc
+Filename: pool/main/a/attachment-converter/attc_0.1.16-1_amd64.deb
+Size: 1467764
+SHA256: 4bdb25d10b1a512c520a460dbb1d086766c9656f73a7be2bb6eba2417aec075e
+SHA1: a19e780f05ba796455151f46f778b5601a7aa16e
+MD5sum: 352eb07b97bfb37f9015ddabe859563a
+Description: Tool for converting email mailboxes to preservation formats
+ Attachment Converter is an open-source command-line tool for
+ digital archivists. Given an email mailbox in MBOX format, it will
+ go through that mailbox and batch convert all the attachments it
+ can into preservation formats, putting a converted copy of each
+ attachment back into the email from which it originated. The
+ user can then re-open the new mailbox in a mail user agent,
+ such as Apple Mail, and browse through the mailbox the normal
+ way.
+
+Package: attc-dbgsym
+Source: attachment-converter
+Version: 0.1.16-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Ben Kim <benkim@uchicago.edu>
+Installed-Size: 1909
+Depends: attc (= 0.1.16-1)
+Priority: optional
+Section: debug
+Filename: pool/main/a/attachment-converter/attc-dbgsym_0.1.16-1_amd64.deb
+Size: 606840
+SHA256: 83e3ddf4f138a2342fb8869234cb473b9e2ba87313ca28588475d30668b93fea
+SHA1: aabab1e55b49d9a5ca81fbabdd23a1b755b98d6f
+MD5sum: 6a8a8ef84f43d4f14333211dc8ba8753
+Description: debug symbols for attc
+Build-Ids: ec825dc04ec934d338f4368a1cb3ec8a4581ec2e
+

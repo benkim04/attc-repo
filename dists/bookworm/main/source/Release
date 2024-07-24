@@ -1,0 +1,5 @@
+Component: main
+Origin: DLDC Repo
+Label: DLDC Github
+Architecture: source
+Description: DLDC Repository for Debian
