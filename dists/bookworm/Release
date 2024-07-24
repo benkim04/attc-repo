@@ -1,7 +1,7 @@
 Origin: DLDC Repo
 Label: DLDC Github
 Codename: bookworm
-Date: Wed, 24 Jul 2024 16:05:10 UTC
+Date: Wed, 24 Jul 2024 20:17:01 UTC
 Architectures: amd64 arm64
 Components: main
 Description: DLDC Repository for Debian
